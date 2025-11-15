@@ -7,32 +7,29 @@ This project demonstrates JavaScript DOM manipulation, event handling, and basic
 
 ⭐ Features
 
-Random color sequence generation
-Increasing difficulty with each level
-Clean and responsive UI
-Smooth color flashing animations
-100% HTML, CSS, and JavaScript (no external libraries)
+1. Random color sequence generation
+2. Increasing difficulty with each level
+3. Clean and responsive UI
+4. Smooth color flashing animations
 
 🛠️ Tech Stack
 
-HTML – Page structure
-CSS – Styling, layout, and animations
-JavaScript – Game logic and user interactions
+1. HTML – Page structure
+2. CSS – Styling, layout, and animations
+3. JavaScript – Game logic and user interactions
 
 🚀 How to Run Locally
 
-Download or clone this repository
-Open the project folder
-Double-click the index.html file
-The game will open directly in your browser
-Start playing by following the flashing color sequence 🎯
+1. Download or clone this repository
+2. Open the project folder
+3. Double-click the index.html file
+4. The game will open directly in your browser
+5. Start playing by following the flashing color sequence 🎯
 
 📝 How to Play
 
-The game highlights a random color
-You must click the same color
-Each new level adds one more color to the sequence
-
-If you make a mistake → Game Over
-
-If you follow the sequence correctly → Level Up 🎉
+1. The game highlights a random color
+2. You must click the same color
+3. Each new level adds one more color to the sequence
+4. If you make a mistake → Game Over
+5. If you follow the sequence correctly → Level Up 🎉
